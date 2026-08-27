@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Estudo de Ecos de Terreno em Sistemas de Radar Meteorológico a Partir da Óptica Geométrica"
+authors:
+  - family-names: "de Souza"
+    given-names: "Moises Fernandes"
+date-released: 2015-06-17
+institution:
+  name: "Universidade Federal do Paraná (UFPR)"
+type: thesis
+thesis-type: "Master's Thesis"
+keywords:
+  - "weather radar"
+  - "ground clutter"
+  - "geometrical optics"
+  - "SRTM"
+  - "antenna radiation pattern"
+  - "SIMEPAR"
