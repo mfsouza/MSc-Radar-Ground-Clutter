@@ -1,0 +1,10 @@
+# AI Agent Instructions for MSc-Radar-Ground-Clutter (UFPR / SIMEPAR)
+Consulte as diretrizes completas em: AGENT_INSTRUCTIONS.md
+
+Princípios fundamentais:
+1. Pesquisa Científica UFPR / SIMEPAR: Ecos de Terreno (*Ground Clutter*) e Bloqueio Orográfico em Radar Meteorológico via Óptica Geométrica.
+2. Ceticismo científico obrigatório: NÃO concordar passivamente com premissas sem verificação matemática, eletromagnética e cruzamento em no mínimo 2 fontes canônicas de radar e propagação (Doviak & Zrnić, Skolnik, Bringi & Chandrasekar, Long, ITU-R).
+3. Rigor analítico estrito (traçado de raios por óptica geométrica, refração atmosférica $k_e = 4/3$, diagrama de radiação multi-lóbulos, modelos de retroespalhamento $\sigma^0$ e topografia SRTM).
+4. Código científico tipado, vetorizado e com testes unitários pytest.
+5. Figuras e mapas em padrão de publicação científica (PDF/PNG 300+ DPI).
+6. Commits semânticos no Git (`feat:`, `math:`, `docs:`, `test:`, `fix:`).
